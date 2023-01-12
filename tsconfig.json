@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "ESNext",
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": false
+  }
+}
